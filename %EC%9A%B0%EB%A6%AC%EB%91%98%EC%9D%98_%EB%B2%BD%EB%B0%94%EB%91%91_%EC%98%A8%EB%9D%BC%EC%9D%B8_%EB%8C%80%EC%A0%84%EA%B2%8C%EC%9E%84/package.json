@@ -1,0 +1,12 @@
+{
+  "name": "our-wallgo-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "실시간 2인 벽바둑 - WebSocket 방 코드 대전",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": { "node": ">=22" },
+  "dependencies": {}
+}
